@@ -1,5 +1,7 @@
 # Análisis de Retención y Churn de Clientes
 
+[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andermartinezalberdi/analisis-retencion-clientes/blob/main/notebook/analisis_retencion_clientes.ipynb)
+
 Análisis de comportamiento y abandono de clientes de una cadena de gimnasios mediante análisis exploratorio, modelos de clasificación y segmentación de clientes.
 
 El objetivo es identificar patrones asociados con el churn, detectar clientes con mayor riesgo de abandono y proponer estrategias de retención basadas en datos.
